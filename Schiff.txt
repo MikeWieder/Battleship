@@ -3,3 +3,4 @@ equi join
 full natural outer join
 bedarfe
 döner oder selber kochen
+bmw bar zahlen
