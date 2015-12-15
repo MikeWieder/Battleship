@@ -2,5 +2,10 @@ if schleife
 equi join
 full natural outer join
 bedarfe
+<<<<<<< .mine
 döner oder selber kochen
-bmw bar zahlen
+Intuitiv
+Quasi Äquivalent||||||| .r4
+döner oder selber kochen=======
+döner oder selber kochen
+bmw bar zahlen>>>>>>> .r5
