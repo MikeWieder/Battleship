@@ -11,7 +11,7 @@ int b = 0;
 if (a<=b)
 {
 
-int x = a + b;
+int x = a + 5;
 }
 
 }
